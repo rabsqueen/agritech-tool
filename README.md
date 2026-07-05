@@ -1,4 +1,4 @@
-# FarmChain Receipts — Landing Page
+# AgriTech Tool — Landing Page
 
 A static landing page explaining the protocol. No build step required.
 
